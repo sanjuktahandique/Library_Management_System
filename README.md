@@ -1,2 +1,2 @@
-# Library_Management_System
-This is a project on book trackings of library
+# Sanjukta_Handique_demo
+This is my first Git Repository.
